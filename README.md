@@ -56,7 +56,7 @@ Brief description of your project.
 
 ## Frontend – React Setup
 
-1. Navigate to frontend folder**
+1. Navigate to frontend folder
 
    bash
    cd frontend
@@ -68,7 +68,7 @@ Brief description of your project.
    npm install
    
 
-3. Install Zustand for state management**
+3. Install Zustand for state management
 
   bash
    npm install zustand
@@ -80,7 +80,7 @@ Brief description of your project.
    npm install axios 
    
 
-5. Start React development server**
+5. Start React development server
 
    bash
    npm start
